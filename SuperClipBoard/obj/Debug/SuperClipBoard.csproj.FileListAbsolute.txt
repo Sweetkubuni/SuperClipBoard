@@ -1,0 +1,8 @@
+D:\C++\SuperClipBoard\SuperClipBoard\bin\Debug\SuperClipBoard.exe.config
+D:\C++\SuperClipBoard\SuperClipBoard\bin\Debug\SuperClipBoard.exe
+D:\C++\SuperClipBoard\SuperClipBoard\bin\Debug\SuperClipBoard.pdb
+D:\C++\SuperClipBoard\SuperClipBoard\obj\Debug\SuperClipBoard.Properties.Resources.resources
+D:\C++\SuperClipBoard\SuperClipBoard\obj\Debug\SuperClipBoard.csproj.GenerateResource.Cache
+D:\C++\SuperClipBoard\SuperClipBoard\obj\Debug\SuperClipBoard.exe
+D:\C++\SuperClipBoard\SuperClipBoard\obj\Debug\SuperClipBoard.pdb
+D:\C++\SuperClipBoard\SuperClipBoard\obj\Debug\SuperClipBoard.csprojResolveAssemblyReference.cache
